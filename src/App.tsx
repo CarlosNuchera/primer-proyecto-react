@@ -1,4 +1,4 @@
-import Card, { CardBody } from './components/card';
+import Card, { CardBody } from './components/Card';
 import List from './components/List';
 
 function App() {
